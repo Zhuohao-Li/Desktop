@@ -1,0 +1,50 @@
+D:/desktop/sobol/sobol_single.v {1 {vlog -work work -vopt D:/desktop/sobol/sobol_single.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module SOBOL_single
+
+Top level modules:
+	SOBOL_single
+
+} {} {}} D:/desktop/sobol/ADD.v {1 {vlog -work work -vopt D:/desktop/sobol/ADD.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module ADD
+
+Top level modules:
+	ADD
+
+} {} {}} D:/desktop/sobol/NAND.v {1 {vlog -work work -vopt D:/desktop/sobol/NAND.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module NAND
+
+Top level modules:
+	NAND
+
+} {} {}} D:/desktop/sobol/SC.v {1 {vlog -work work -vopt D:/desktop/sobol/SC.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module SC
+
+Top level modules:
+	SC
+
+} {} {}} D:/desktop/sobol/top.v {1 {vlog -work work -vopt D:/desktop/sobol/top.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module TOP
+
+Top level modules:
+	TOP
+
+} {} {}} D:/desktop/sobol/sobol.v {1 {vlog -work work -vopt D:/desktop/sobol/sobol.v
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module SOBOL
+
+Top level modules:
+	SOBOL
+
+} {} {}} {D:/desktop/sobol/sobol unit.v} {1 {vlog -work work -vopt {D:/desktop/sobol/sobol unit.v}
+Model Technology ModelSim SE-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module SOBOL_unit
+
+Top level modules:
+	SOBOL_unit
+
+} {} {}}

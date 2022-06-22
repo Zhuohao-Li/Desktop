@@ -1,0 +1,169 @@
+m255
+K4
+z2
+13
+cModel Technology
+dD:/modeltech64_10.2c/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vADD
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+!s85 0
+31
+IRf0lR8j^V`Y?mZ7fZhnR^1
+Z1 dD:/desktop/sobol
+w1654088769
+8D:/desktop/sobol/ADD.v
+FD:/desktop/sobol/ADD.v
+L0 3
+Z2 OL;L;10.2c;57
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@d@d
+!s100 NJ^No1:V:O0bU>^f?6mLE2
+!s90 -reportprogress|300|-work|work|-vopt|D:/desktop/sobol/ADD.v|
+!s108 1654092529.182000
+!s107 D:/desktop/sobol/ADD.v|
+!i10b 1
+!i111 0
+vNAND
+Z4 V`JN@9S9cnhjKRR_L]QIcM3
+r1
+31
+I@oQ=3IPF0Zad>VkfQcS8T1
+R1
+w1654075525
+8D:/desktop/sobol/NAND.v
+FD:/desktop/sobol/NAND.v
+L0 3
+R2
+R3
+n@n@a@n@d
+!s85 0
+!s100 l>eMokjTaZZNAfD34hUgR3
+!s90 -reportprogress|300|-work|work|-vopt|D:/desktop/sobol/NAND.v|
+!s108 1654092529.130000
+!s107 D:/desktop/sobol/NAND.v|
+!i10b 1
+!i111 0
+vSC
+R4
+r1
+31
+IzU_7RbSC3_QZnYTilZb;g3
+R1
+w1654072830
+8D:/desktop/sobol/SC.v
+FD:/desktop/sobol/SC.v
+L0 3
+R2
+R3
+n@s@c
+!s85 0
+!s100 T2TX<9B7YonAfc:9Q=4G>3
+!s90 -reportprogress|300|-work|work|-vopt|D:/desktop/sobol/SC.v|
+!s108 1654092529.074000
+!s107 D:/desktop/sobol/SC.v|
+!i10b 1
+!i111 0
+vSOBOL
+R4
+r1
+31
+I<E<W2Smb_gXN_7ZzXXI^W2
+R1
+w1653999132
+8D:/desktop/sobol/sobol.v
+FD:/desktop/sobol/sobol.v
+L0 3
+R2
+R3
+n@s@o@b@o@l
+!s85 0
+!s100 <aggGd@gT>bj31AA3a1CB0
+!s90 -reportprogress|300|-work|work|-vopt|D:/desktop/sobol/sobol.v|
+!s108 1654092529.020000
+!s107 D:/desktop/sobol/sobol.v|
+!i10b 1
+!i111 0
+vSOBOL_single
+R4
+r1
+31
+I?8bge3bJ6bdMV`6iOaLC:0
+R1
+w1653997811
+8D:/desktop/sobol/sobol_single.v
+FD:/desktop/sobol/sobol_single.v
+L0 3
+R2
+R3
+n@s@o@b@o@l_single
+!s85 0
+!s100 EJW9TSN0UfmAcH5m5M=jn3
+!s90 -reportprogress|300|-work|work|-vopt|D:/desktop/sobol/sobol_single.v|
+!s108 1654092528.949000
+!s107 D:/desktop/sobol/sobol_single.v|
+!i10b 1
+!i111 0
+vSOBOL_unit
+R4
+r1
+31
+I_m;Ba>cE^Sd09>?@Y_Q4V1
+R1
+w1653911421
+8D:/desktop/sobol/sobol unit.v
+FD:/desktop/sobol/sobol unit.v
+L0 3
+R2
+R3
+n@s@o@b@o@l_unit
+!s85 0
+!s100 n2:Dbd^J]g;jC^d2;6ml13
+!s90 -reportprogress|300|-work|work|-vopt|D:/desktop/sobol/sobol unit.v|
+!s108 1654092528.885000
+!s107 D:/desktop/sobol/sobol unit.v|
+!i10b 1
+!i111 0
+vtest
+R4
+r1
+31
+IG[<MSWa`^7307212m=?H83
+R1
+w1654092501
+8D:/desktop/sobol/top_tb.v
+FD:/desktop/sobol/top_tb.v
+L0 2
+R2
+R3
+!s85 0
+!s100 XOQf@<Zj`EBYj:B;3c_<X0
+!s90 -reportprogress|300|-work|work|-vopt|D:/desktop/sobol/top_tb.v|
+!i10b 1
+!s108 1654092529.283000
+!s107 D:/desktop/sobol/top_tb.v|
+!i111 0
+vTOP
+R4
+r1
+31
+I;2S_`XIT]@EnJ?hlVGa4z1
+R1
+w1654087164
+8D:/desktop/sobol/top.v
+FD:/desktop/sobol/top.v
+L0 3
+R2
+R3
+n@t@o@p
+!s85 0
+!s100 8Yh0GkR;EXAiVlCojGjjU1
+!s90 -reportprogress|300|-work|work|-vopt|D:/desktop/sobol/top.v|
+!s108 1654092529.231000
+!s107 D:/desktop/sobol/top.v|
+!i10b 1
+!i111 0

@@ -1,0 +1,23 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\modelsim\examples
+vdata_ram
+!i10b 1
+!s100 J3a<X_Ido^@gMJOE856FX3
+I<Oj<C40O]hCkmSOSQ_TBW2
+Z1 V_7A=I>?Pgc=Kf?YBjLnaZ0
+Z2 dE:\modelsim\filter
+w1399558270
+Z3 8E:/modelsim/filter/data_ram.v
+Z4 FE:/modelsim/filter/data_ram.v
+L0 2
+Z5 OE;L;10.1a;51
+r1
+!s85 0
+31
+!s108 1399558274.428000
+!s107 E:/modelsim/filter/data_ram.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|E:/modelsim/filter/data_ram.v|
+Z7 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
